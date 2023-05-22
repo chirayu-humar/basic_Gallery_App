@@ -1,0 +1,17 @@
+/* Write your code here. */
+.container {
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+}
+.image {
+  width: 100%;
+}
+.unSelected {
+  opacity: 0.5;
+}
+button {
+  background-color: transparent;
+  outline: none;
+  border-width: 0px;
+}
